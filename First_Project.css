@@ -1,0 +1,79 @@
+body{
+    margin: 0; 
+    padding: 0;
+    
+}
+
+.layout{
+    padding: .5% 5% 5% 5%;
+    display: block;
+}
+ .bigbackground1{
+    justify-content:space-between;
+    align-items: center;
+    height: 230px;
+    width: 100%;
+    background-color: rgb(195, 251, 255);
+    margin-bottom: 10px ;
+    padding: 20px 20px 20px 20px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row ;
+}
+ header{
+    font: bold 50px Tahoma;
+    color: rgb(57, 142, 148);
+    display: inline-block;
+
+}
+ span{
+    font: 25px Tahoma;
+
+}
+.button1, .button2{
+    height: 40px;
+    width: 150px;
+    background-color:rgb(14, 85, 90);
+    font: 20px Tahoma;
+    color: white;
+    border-radius: 10px;
+}
+.parent1{
+    height: 300px;
+    width: 100%;
+    padding: 10px;
+    justify-content: space-between;
+    justify-content: baseline;
+    display: flex;
+    flex-direction: row;
+}
+.child1{
+    height: 100%;
+    width: 100%;
+    background-color: aliceblue;
+    line-height: 40px;
+    padding: 20px;
+    margin: 0px 7px 15px 7px 
+}
+
+.bigbackground2{
+    justify-content:space-between;
+    align-items: center;
+    height: 230px;
+    width: 100%;
+    background-color: rgb(195, 251, 255);
+    margin: 60px 0px 10px 0px ;
+    padding: 20px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row ;
+}
+
+
+
+
+         
+            
+        
+
+
